@@ -1,0 +1,13 @@
+.gradient-one {
+  background: linear-gradient(
+    0deg,
+    hsla(0, 0%, 80%, 1) 0%,
+    hsla(0, 0%, 96%, 1) 100%
+  );
+}
+
+.bg-image-service-02 {
+  background-image: url(../images/mountain-background.png);
+  background-position: center;
+  background-size: cover;
+}
