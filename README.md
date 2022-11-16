@@ -1,17 +1,18 @@
 ## ⭐ Paytm.com Clone ⭐
 
 
-⭕ **Educational Purpose Only**
+⭕ **Educational Purpose Only**  
+<br>
+⭕ **This Site is Fully Responsive**
 
 This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5, CSS3 and Tailwind CSS**.
 
-⭕ **This Site is Fully Responsive**
 <br>
 <br>
 
 
 
-## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://github.com/prakash-naikwadi/paytm-clone">**Visit Now** 🚀</a>
 ⭕ **This Live link was removed because of privacy policy reason of paytm**
 
 <br>
