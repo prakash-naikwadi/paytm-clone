@@ -10,8 +10,9 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 <br>
 
 
-⭕ **This Live link was removed because of privacy policy reason of paytm**
+
 ## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+⭕ **This Live link was removed because of privacy policy reason of paytm**
 
 <br>
 
